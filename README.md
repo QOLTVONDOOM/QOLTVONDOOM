@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Howdy 👋
+- 🤖 Who is Qolt Von Doom?
+- ☠️ AKA Doomer, Qolt-45, Daddy Doom, Doomer Von Doom Doom, Qolt Von Dickdown, Doomy Bear....
+- 🤠 I’m into tech, denim, and making farms cool again
+- 😈 Currently knee-deep in penetration testing (and no, it’s not as sexy as it sounds)
 <!--
 **QOLTVONDOOM/QOLTVONDOOM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
